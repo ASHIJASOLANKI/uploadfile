@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "formidable": "^3.5.1",
+    "nodemailer": "^6.9.15",
+    "upper-case": "^3.0.0"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "personal portfolio",
+  "main": "backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashija",
+  "license": "ISC"
+}
